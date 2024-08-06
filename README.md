@@ -9,11 +9,11 @@ The *YouTube Manager App* is a Python-based application designed to manage a col
 
 ## MongoDB Setup
 
-The application connects to MongoDB Atlas using the pymongo library. The MongoDB setup involves the following:
+The application connects to MongoDB Atlas using the **pymongo** library. The MongoDB setup involves the following:
 
 - *Connection:* Establishes a connection to the MongoDB cluster using the provided connection string.
-- *Database:* Accesses the ytmanager database.
-- *Collection:* Manages video data within the videos collection.
+- *Database:* Accesses the **ytmanager** database.
+- *Collection:* Manages video data within the **videos** collection.
 
 ## Features
 
