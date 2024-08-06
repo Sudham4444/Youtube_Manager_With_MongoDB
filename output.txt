@@ -1,0 +1,131 @@
+MongoClient(host=['ac-mzfusb6-shard-00-01.wntvop7.mongodb.net:27017', 'ac-mzfusb6-shard-00-02.wntvop7.mongodb.net:27017', 'ac-mzfusb6-shard-00-00.wntvop7.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', appname='Cluster0', authsource='admin', replicaset='atlas-1bi4ad-shard-0', tls=True, tlsallowinvalidcertificates=True, tlsdisableocspendpointcheck=True)
+Collection(Database(MongoClient(host=['ac-mzfusb6-shard-00-01.wntvop7.mongodb.net:27017', 'ac-mzfusb6-shard-00-02.wntvop7.mongodb.net:27017', 'ac-mzfusb6-shard-00-00.wntvop7.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', appname='Cluster0', authsource='admin', replicaset='atlas-1bi4ad-shard-0', tls=True, tlsallowinvalidcertificates=True, tlsdisableocspendpointcheck=True), 'ytmanager'), 'videos')
+
+YouTube Manager App
+1. List all videos
+2. Add a new video
+3. Update a video
+4. Delete a video
+5. Exit the app
+Enter your choice: 2
+Enter the video name: let's grow
+Enter the video time: 60 min
+
+YouTube Manager App
+1. List all videos
+2. Add a new video
+3. Update a video
+4. Delete a video
+5. Exit the app
+Enter your choice: 2
+Enter the video name: let's code
+Enter the video time: 1 hr
+
+YouTube Manager App
+1. List all videos
+2. Add a new video
+3. Update a video
+4. Delete a video
+5. Exit the app
+Enter your choice: 2
+Enter the video name: DSA
+Enter the video time: 12 hrs
+
+YouTube Manager App
+1. List all videos
+2. Add a new video
+3. Update a video
+4. Delete a video
+5. Exit the app
+Enter your choice: 2
+Enter the video name: data analyst
+Enter the video time: 12 hrs
+
+YouTube Manager App
+1. List all videos
+2. Add a new video
+3. Update a video
+4. Delete a video
+5. Exit the app
+Enter your choice: 2
+Enter the video name: python 
+Enter the video time: 10 hrs
+
+YouTube Manager App
+1. List all videos
+2. Add a new video
+3. Update a video
+4. Delete a video
+5. Exit the app
+Enter your choice: 2
+Enter the video name: django
+Enter the video time: 10 hrs
+
+YouTube Manager App
+1. List all videos
+2. Add a new video
+3. Update a video
+4. Delete a video
+5. Exit the app
+Enter your choice: 1
+ID: 66ab5a7859a8edbe2a1a48ec, Name: let's grow and Time: 60 min
+ID: 66ab5a8759a8edbe2a1a48ed, Name: let's code and Time: 1 hr
+ID: 66ab5a9459a8edbe2a1a48ee, Name: DSA and Time: 12 hrs
+ID: 66ab5aa959a8edbe2a1a48ef, Name: data analyst and Time: 12 hrs
+ID: 66ab5abc59a8edbe2a1a48f0, Name: python  and Time: 10 hrs
+ID: 66ab5acd59a8edbe2a1a48f1, Name: django and Time: 10 hrs
+
+YouTube Manager App
+1. List all videos
+2. Add a new video
+3. Update a video
+4. Delete a video
+5. Exit the app
+Enter your choice: 3
+Enter the video id to update: 66ab5a8759a8edbe2a1a48ed
+Enter the updated video name: let's code
+Enter the updated video time: 10 hrs
+
+YouTube Manager App
+1. List all videos
+2. Add a new video
+3. Update a video
+4. Delete a video
+5. Exit the app
+Enter your choice: 1
+ID: 66ab5a7859a8edbe2a1a48ec, Name: let's grow and Time: 60 min
+ID: 66ab5a8759a8edbe2a1a48ed, Name: let's code and Time: 10 hrs
+ID: 66ab5a9459a8edbe2a1a48ee, Name: DSA and Time: 12 hrs
+ID: 66ab5aa959a8edbe2a1a48ef, Name: data analyst and Time: 12 hrs
+ID: 66ab5abc59a8edbe2a1a48f0, Name: python  and Time: 10 hrs
+ID: 66ab5acd59a8edbe2a1a48f1, Name: django and Time: 10 hrs
+
+YouTube Manager App
+1. List all videos
+2. Add a new video
+3. Update a video
+4. Delete a video
+5. Exit the app
+Enter your choice: 4
+Enter the video id to delete: 66ab5a7859a8edbe2a1a48ec
+
+YouTube Manager App
+1. List all videos
+2. Add a new video
+3. Update a video
+4. Delete a video
+5. Exit the app
+Enter your choice: 1
+ID: 66ab5a8759a8edbe2a1a48ed, Name: let's code and Time: 10 hrs
+ID: 66ab5a9459a8edbe2a1a48ee, Name: DSA and Time: 12 hrs
+ID: 66ab5aa959a8edbe2a1a48ef, Name: data analyst and Time: 12 hrs
+ID: 66ab5abc59a8edbe2a1a48f0, Name: python  and Time: 10 hrs
+ID: 66ab5acd59a8edbe2a1a48f1, Name: django and Time: 10 hrs
+
+YouTube Manager App
+1. List all videos
+2. Add a new video
+3. Update a video
+4. Delete a video
+5. Exit the app
+Enter your choice: 5
